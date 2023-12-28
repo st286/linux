@@ -1,6 +1,7 @@
 # linux
 
 ## disk and file system
+<details>
 
 [How to Partition and Format Disk Drives on Linux](https://www.cherryservers.com/blog/how-to-partition-and-format-disk-drives-on-linux)
 
@@ -13,4 +14,4 @@ sudo mkfs -I -t vfat /dev/sdb
 fdisk -l
 
 ```
-
+</details>
