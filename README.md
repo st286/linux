@@ -1,5 +1,11 @@
 # linux
 
+## vim 
+<details>
+[vimconfig --simple and sane vim configuration](https://vimconfig.com/)
+[A basic .vimrc file that will serve as a good template on which to build. ](https://gist.github.com/simonista/8703722)
+</details>
+
 ## disk and file system
 <details>
 
