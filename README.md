@@ -12,6 +12,8 @@
 ## disk and file system
 <details>
 
+[My basic vim setup ](https://dev.to/ethand91/my-basic-vim-setup-5hdf)
+
 [How to Partition and Format Disk Drives on Linux](https://www.cherryservers.com/blog/how-to-partition-and-format-disk-drives-on-linux)
 
 [Linux Format Disk Guide](https://www.easeus.com/computer-instruction/linux-format-disk.html)
