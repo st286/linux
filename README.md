@@ -7,6 +7,8 @@
 
 [How to Search ](https://linuxize.com/post/vim-search/)
 
+[Search and Replace](https://www.baeldung.com/linux/vim-search-replace)
+
 [Find and Replace](https://www.warp.dev/terminus/vim-find-and-replace#using-slash-and-dot)
 
 [My basic vim setup ](https://dev.to/ethand91/my-basic-vim-setup-5hdf)
