@@ -3,6 +3,10 @@
 ## vim 
 <details>
 
+[Quick Movement](https://medium.com/usevim/vim-101-quick-movement-c12889e759e0)
+
+[Find and Replace](https://www.warp.dev/terminus/vim-find-and-replace#using-slash-and-dot)
+
 [My basic vim setup ](https://dev.to/ethand91/my-basic-vim-setup-5hdf)
 
 [vimconfig --simple and sane vim configuration](https://vimconfig.com/)
