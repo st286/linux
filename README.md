@@ -1,7 +1,12 @@
 # linux
 
-## cmake
+## cmake , libevent
 <details>
+Event notification library
+  
+[libevent](https://github.com/libevent/libevent)
+
+
 CMake: A Powerful Software Build System
   
 [CMake](https://cmake.org)
