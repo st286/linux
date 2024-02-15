@@ -1,5 +1,17 @@
 # linux
 
+## cmake
+<details>
+CMake: A Powerful Software Build System
+  
+[CMake](https://cmake.org)
+
+    ./configure 
+    make
+    sudo make install
+
+</details>
+
 ## android
 
 GBox means Google Box that helps users use Google apps
