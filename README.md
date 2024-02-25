@@ -2,11 +2,7 @@
 
 ## [neovim](https://github.com/neovim/neovim)
 
-<details>
-Install 
-
-  
-</details>
+    install to /usr/local/bin/
 
 ## [Nmap,nping,ncat](https://nmap.org/download.html)
 
