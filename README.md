@@ -4,6 +4,13 @@
 
 <details>
 Install from source
+
+prerequisites. 
+General requirements:
+
+      Clang or GCC version 4.9+
+      CMake version 3.13+, built with TLS/SSL support
+
 If a package is not provided for your platform, you can build Neovim from source. See BUILD.md for details. If you have the prerequisites then building is easy:
 
       make CMAKE_BUILD_TYPE=Release
