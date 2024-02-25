@@ -13,10 +13,9 @@ Event notification library
 
 CMake: A Powerful Software Build System
 
-[cmake_github](https://github.com/Kitware/CMake)
-  
 [CMake](https://cmake.org)
 
+    ## build from source(unix/linux)
     ./configure 
     make
     sudo make install
