@@ -1,5 +1,9 @@
 # linux
 
+## [neovim](https://github.com/neovim/neovim)
+
+## [warp--terminal reimagined with AI and collaborative tools for better productivity](https://www.warp.dev)
+
 ## cmake , libevent
 <details>
 Event notification library
