@@ -5,11 +5,10 @@
 <details>
 Install 
 
-
   
 </details>
 
-
+## [Nmap,nping,ncat](https://nmap.org/download.html)
 
 ## [warp--terminal reimagined with AI and collaborative tools for better productivity](https://www.warp.dev)
 
