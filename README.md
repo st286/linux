@@ -7,7 +7,13 @@
 ## [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 <details>
+  
   [FFmpeg](https://www.ffmpeg.org)
+
+      git clone https://git.ffmpeg.org/ffmpeg.git ffmpeg
+      ./configure
+      make 
+      sudo make install
   
 </details>
 
