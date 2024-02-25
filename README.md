@@ -2,6 +2,35 @@
 
 ## [neovim](https://github.com/neovim/neovim)
 
+<details>
+Install from source
+If a package is not provided for your platform, you can build Neovim from source. See BUILD.md for details. If you have the prerequisites then building is easy:
+
+      make CMAKE_BUILD_TYPE=Release
+      sudo make install
+        
+For Unix-like systems this installs Neovim to /usr/local, while for Windows to C:\Program Files. Note, however, that this can complicate uninstallation. The following example avoids this by isolating an installation under $HOME/neovim:
+
+    rm -r build/  # clear the CMake cache
+    make CMAKE_EXTRA_FLAGS="-DCMAKE_INSTALL_PREFIX=$HOME/neovim"
+    make install
+    export PATH="$HOME/neovim/bin:$PATH"
+    
+Uninstall
+
+There is a CMake target to uninstall after make install:
+
+    sudo cmake --build build/ --target uninstall
+    
+Alternatively, just delete the CMAKE_INSTALL_PREFIX artifacts:
+
+    sudo rm /usr/local/bin/nvim
+    sudo rm -r /usr/local/share/nvim/
+  
+</details>
+
+
+
 ## [warp--terminal reimagined with AI and collaborative tools for better productivity](https://www.warp.dev)
 
 ## [yt-dlp](https://github.com/yt-dlp/yt-dlp)
