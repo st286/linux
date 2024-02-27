@@ -17,9 +17,6 @@
   
 </details>
 
-
-
-
 ## [cmake](https://cmake.or),  [libevent](https://github.com/libevent/libevent)
 <details>
 Event notification library
@@ -46,9 +43,27 @@ GBox means Google Box that helps users use Google apps
   
 </details>
 
+## disk and file system
+<details>
+
+[How to Partition and Format Disk Drives on Linux](https://www.cherryservers.com/blog/how-to-partition-and-format-disk-drives-on-linux)
+
+[Linux Format Disk Guide](https://www.easeus.com/computer-instruction/linux-format-disk.html)
+
+```
+lsblk -f
+sudo mkfs -I -t vfat /dev/sdb
+
+fdisk -l
+
+```
+</details>
+
 # Editor
 
-## [Zed](https://github.com/zed-industries/zed)
+## [Zed--github](https://github.com/zed-industries/zed)
+
+### [Zed](https://zed.dev)
 
 ## [neovim](https://github.com/neovim/neovim)
 
@@ -71,18 +86,4 @@ GBox means Google Box that helps users use Google apps
 
 </details>
 
-## disk and file system
-<details>
 
-[How to Partition and Format Disk Drives on Linux](https://www.cherryservers.com/blog/how-to-partition-and-format-disk-drives-on-linux)
-
-[Linux Format Disk Guide](https://www.easeus.com/computer-instruction/linux-format-disk.html)
-
-```
-lsblk -f
-sudo mkfs -I -t vfat /dev/sdb
-
-fdisk -l
-
-```
-</details>
