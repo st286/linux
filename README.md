@@ -1,8 +1,5 @@
 # linux
 
-## [neovim](https://github.com/neovim/neovim)
-
-
 ## [Nmap,nping,ncat](https://nmap.org/download.html)
 
 ## [warp--terminal reimagined with AI and collaborative tools for better productivity](https://www.warp.dev)
@@ -49,6 +46,11 @@ GBox means Google Box that helps users use Google apps
   
 </details>
 
+# Editor
+
+## [Zed](https://github.com/zed-industries/zed)
+
+## [neovim](https://github.com/neovim/neovim)
 
 ## vim 
 <details>
