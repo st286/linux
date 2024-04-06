@@ -16,9 +16,13 @@
   
 </details>
 
+---
 # Second: [git-guides](https://github.com/git-guides)
 
+---
 # First: linux
+
+<details>
 
 ## [Nmap,nping,ncat](https://nmap.org/download.html)
 
@@ -79,7 +83,12 @@ fdisk -l
 ```
 </details>
 
-# Editor
+</details>
+
+---
+# Zero:  Editor
+
+<details>
 
 ## [Zed--github](https://github.com/zed-industries/zed)
 
@@ -105,5 +114,8 @@ fdisk -l
 [A basic .vimrc file that will serve as a good template on which to build. ](https://gist.github.com/simonista/8703722)
 
 </details>
+
+</details>
+
 
 
