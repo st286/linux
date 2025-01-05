@@ -1,3 +1,22 @@
+# Commands
+
+[Setup Zsh As Your Default Shell](https://www.jakewiesler.com/blog/zsh-as-default-shell)
+
+<details>
+  
+        cat /etc/shells
+        echo $SHELL
+        command -v zsh
+        command -v zsh | sudo tee -a /etc/shells
+        sudo chsh -s $(which zsh) $USER
+        ##After running this command, the next time you start a new terminal session you will see Zsh! To confirm, you can run:
+        echo $SHELL
+
+</details>
+
+
+---
+---
 # 4 : [Systemd](https://www.junmajinlong.com/linux/index/#systemd)
 
 # 3 : Virtualization
